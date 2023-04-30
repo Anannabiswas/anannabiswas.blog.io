@@ -21,8 +21,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Ananna Biswas'
-description:	       ''
-author:              'Made with <3 using Paul Le'
+description:	       'Made with love using <a href="https://lenpaul.github.io/Lagrange/" target="blank"> Paul Le</a>'
+              
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
